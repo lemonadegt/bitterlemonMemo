@@ -1,7 +1,5 @@
 # Code of Conduct
 
-
-
 **GDG Seoul**은 개발자 지향 콘퍼런스로서 권리 침해 없는 행사를 위하여 타인에게 불쾌감을 줄 수 있는 성 정체성, 성적 취향, 장애, 외모, 민족, 국적, 인종, 나이, 정치, 종교 등에 대한 발언은 금지합니다.
 
 행동강령은 Google Developers Group 행사에 참여하는 모든 개인에게 해당하며 위반 시 퇴장 등의 제재를 받을 수 있습니다. 행동강령 위반 사례에 대한 내용은 공개될 수 있습니다.
@@ -27,3 +25,11 @@
 
 
 
+------
+
+
+
+## 권리포기서 (Disclaimer)
+
+GDG Seoul은 Google과 독립적인 단체로, GDG Seoul에서 진행하는 활동과 발표되는 내용들은 Google과 관련이 없습니다.
+GDG Seoul is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.
