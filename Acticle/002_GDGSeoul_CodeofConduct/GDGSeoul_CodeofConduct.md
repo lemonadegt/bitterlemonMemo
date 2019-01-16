@@ -25,11 +25,17 @@
 
 
 
-------
 
 
 
-## 권리포기서 (Disclaimer)
+
+# 권리포기서 (Disclaimer)
 
 GDG Seoul은 Google과 독립적인 단체로, GDG Seoul에서 진행하는 활동과 발표되는 내용들은 Google과 관련이 없습니다.
+
 GDG Seoul is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.
+
+
+
+
+
